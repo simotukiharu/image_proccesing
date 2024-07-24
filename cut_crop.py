@@ -1,4 +1,4 @@
-# 絵コンテを一カットずつに切り取る
+# トリガーデータセットの絵コンテから一カットごとに切り取る
 import sys
 sys.dont_write_bytecode = True
 import pathlib
